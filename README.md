@@ -25,7 +25,7 @@ In addition, the VisualizeNN_mod is provided in this repository and must be plac
 # Directory Structure
 The directory structure for this repository is as follows:
 
-Sensorless Drive Diagnosis
+Sensorless Drive Diagnosis:
 ├── classification_main_v1.py
 ├── Datasets
 │   ├── Sensorless_drive_diagnosis.txt
