@@ -26,10 +26,10 @@ In addition, the VisualizeNN_mod is provided in this repository and must be plac
 The directory structure for this repository is as follows:
 
 Sensorless Drive Diagnosis:
-├── classification_main_v1.py
-├── Datasets
-│   ├── Sensorless_drive_diagnosis.txt
-└── VisualizeNN_mod.py
+    ├── classification_main_v1.py
+    ├── Datasets
+    │   ├── Sensorless_drive_diagnosis.txt
+    └── VisualizeNN_mod.py
 
 # Usage
 To run the pipeline, simply run the script classification_pipeline.py using Python. The trained models will be saved to the Models directory.
